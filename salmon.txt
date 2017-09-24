@@ -1,0 +1,10 @@
+I am forever in search of good code source examples in Haskell (and other FP languages) from which to learn new techniques and so I forked 'Sammy the Salmon' and after some twiddling with old cabal file managed to get it to work.
+
+The talk by Fraser Tweedale was excellent - a bit of a struggle in parts - but just great to see a master at work.
+
+Is there a chance of some source for the parser? I copied some interesting bits during the talk with my own annotations. 
+
+I tried a stack build on the *fresnel* but there are warnings and errors. I looked for notes as per the last slide and there are so many talks to choose from...
+
+
+

@@ -1,3 +1,5 @@
+
+{-# OPTIONS_GHC -fwarn-missing-signatures #-}
 module Salmon where
 
 data Salmon = Salmon { name :: String }
